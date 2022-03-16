@@ -1,1 +1,1 @@
-# project-blogs-api
+# Projeto Blogs API
