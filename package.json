@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gabrielanebbia/project-blogs-api/issues"
   },
-  "homepage": "https://github.com/gabrielanebbia/project-blogs-api#readme"
+  "homepage": "https://github.com/gabrielanebbia/project-blogs-api#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
