@@ -1,8 +1,8 @@
 ## Projeto Blogs API
 
-#### Objetivo do projeto
+### Objetivo do projeto
 
-Desenvolver uma API de um CRUD (posts de blog) usando o ORM (mapeamento objeto-relacional) com sequelize. Desenvolver endpoints seguindo os princípios do REST e conectados ao banco de dados.
+Desenvolver uma API de posts de blog com funções CRUD(Create, Read, Update, Delete), utilizando o ORM (mapeamento objeto-relacional) com sequelize e criando endpoints conectados ao banco de dados, segundo os princípios do REST.
 
 #### Tecnologia Utilizadas
 
