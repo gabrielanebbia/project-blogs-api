@@ -5,7 +5,7 @@ module.exports = {
         id: 1,
         displayName: 'Margaret Hamilton',
         email: 'margarethamilton@gmail.com',
-        password: 'MIT@polo1!1936',
+        password: 'MIT@pollo1!1936',
         image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Margaret_Hamilton_1995.jpg/475px-Margaret_Hamilton_1995.jpg',
       },
       {
