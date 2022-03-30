@@ -1,8 +1,18 @@
 ## Projeto Blogs API
 
+### Sumário
+
+1. [Objetivo do projeto](#objetivo-do-projeto)
+2. [Tecnologia Utilizadas](#tecnologia-utilizadas)
+3. [Tabelas Criadas](#tabelas-criadas)
+4. [Instruções para baixar e rodar o projeto](#instruções-para-baixar-e-rodar-o-projeto)
+5. [Comandos do Sequelize](#comandos-do-sequelize)
+
+---
+
 ### Objetivo do projeto
 
-Desenvolver uma API de posts de blog com funções CRUD(Create, Read, Update, Delete), utilizando o ORM (mapeamento objeto-relacional) com sequelize e criando endpoints conectados ao banco de dados, segundo os princípios do REST.
+Desenvolver uma API de posts de blog com funções CRUD(Create, Read, Update, Delete). Utilizando o ORM (mapeamento objeto-relacional) com sequelize e criando endpoints conectados ao banco de dados, segundo os princípios do REST.
 
 ---
 
