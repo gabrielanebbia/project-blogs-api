@@ -14,6 +14,19 @@ Desenvolver uma API de posts de blog com funções CRUD(Create, Read, Update, De
 
 ---
 
+### Tabelas Criadas
+
+- `Users`
+Tabela para os usuários que desejam se cadastrar na aplicação.
+- `Categories`
+Tabela de Categorias para os Posts.
+- `BlogPosts`
+tabela de Posts, guardando todas as informações dos posts realizados.
+- `PostsCategories`
+Tabela relacionando posts com as categorias.
+
+---
+
 ### Instruções para baixar e rodar o projeto
 
 1. Clone o repositório
