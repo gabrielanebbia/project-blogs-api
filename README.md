@@ -27,3 +27,14 @@ Desenvolver uma API de posts de blog com funções CRUD(Create, Read, Update, De
 
 4. Rodar o projeto
 `npm start`
+
+---
+
+### Comandos do Sequelize
+
+- Dropa o banco
+`npx sequelize-cli db:drop`
+- Cria o banco e gera as tabelas
+`npx sequelize-cli db:create && npx sequelize-cli db:migrate`
+- Insere dados na tabela
+`npx sequelize-cli db:seed:all`
